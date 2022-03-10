@@ -1,0 +1,22 @@
+[
+    {
+        "id": "prd001",
+        "nom": "T-shirt bleu clair",
+        "prix": 0.5
+    },
+    {
+        "id": "prd002",
+        "nom": "T-Shirt sport gris",
+        "prix": 4
+    },
+    {
+        "id": "prd003",
+        "nom": "T-shirt bleu marin",
+        "prix": 2
+    },
+    {
+        "id": "prd004",
+        "nom": "T-shirt manche longue",
+        "prix": 1.5
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "version": 3,
+<<<<<<< HEAD
+    "mappings": "AAAA,AAAA,eAAe,CAAC;EACZ,MAAM,EAAE,GAAG;EACX,gBAAgB,EAAE,QAAQ;EAC1B,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,OAAO;EAChB,MAAM,EAAE,GAAG,CAAC,KAAK,CAAC,OAAa;EAC/B,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,OAAO;EACf,WAAW,EAAE,IAAI;CACpB",
+=======
+    "mappings": "AAAA,AAAA,eAAe,CAAA;EACX,gBAAgB,EAAE,SAAS;EAC3B,KAAK,EAAE,UAAU;EACjB,OAAO,EAAE,OAAO;EAChB,MAAM,EAAE,eAAe;EACvB,aAAa,EAAE,GAAG;EAClB,WAAW,EAAE,IAAI;CACpB",
+>>>>>>> 8b17846b1c1fef5331a786ab59268602765caff2
+    "sources": [
+        "src/BtnAjoutPanier.scss"
+    ],
+    "names": [],
+    "file": "BtnAjoutPanier.css"
+}

@@ -1,0 +1,46 @@
+html {
+  box-sizing: border-box;
+<<<<<<< HEAD
+  height: 100vh;
+  width: 100%;
+=======
+>>>>>>> 8b17846b1c1fef5331a786ab59268602765caff2
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+<<<<<<< HEAD
+body {
+  overflow-x: hidden;
+  margin: 0;
+  font-family: 'Roboto Slab', serif;
+  font-size: clamp(0.75rem, calc(0.5rem + 1vw), 1.25rem);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Roboto', sans-serif;
+=======
+a {
+  text-decoration: none;
+  color: inherit;
+  padding: 10px;
+}
+
+body {
+  font-family: 'Roboto', serif;
+  font-size: clamp(0.75rem, calc(0.5rem + 0.5vw), 1.25rem);
+  margin: 0;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Ubuntu', sans-serif;
+>>>>>>> 8b17846b1c1fef5331a786ab59268602765caff2
+}
+/*# sourceMappingURL=index.css.map */

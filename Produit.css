@@ -1,0 +1,39 @@
+.Produit {
+<<<<<<< HEAD
+  margin: 0.5rem;
+  padding: 0.5rem;
+  text-align: center;
+  background-color: ivory;
+  box-shadow: 5px 5px 15px 2px rgba(80, 78, 77, 0.75);
+=======
+  width: fit-content;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 10px 2px rgba(0, 0, 0, 0.75);
+  margin: 0.5rem;
+  text-align: center;
+  padding: 0.5rem;
+>>>>>>> 8b17846b1c1fef5331a786ab59268602765caff2
+}
+
+.Produit .titre {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+<<<<<<< HEAD
+.Produit .prix::after {
+  content: ' $CA';
+}
+
+.Produit img {
+  width: 240px;
+=======
+.Produit .prix {
+  padding: 0.5rem;
+}
+
+.Produit .prix::after {
+  content: '$CA';
+>>>>>>> 8b17846b1c1fef5331a786ab59268602765caff2
+}
+/*# sourceMappingURL=Produit.css.map */

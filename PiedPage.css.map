@@ -1,0 +1,13 @@
+{
+    "version": 3,
+<<<<<<< HEAD
+    "mappings": "AAAA,AAAA,SAAS,CAAC;EACN,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,cAAc;EAC1B,SAAS,EAAE,IAAI;EACf,UAAU,EAAE,MAAM;CACrB",
+=======
+    "mappings": "AAAA,AAAA,SAAS,CAAA;EACL,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,SAAS;EAClB,SAAS,EAAE,MAAM;EACjB,UAAU,EAAE,MAAM;CACrB",
+>>>>>>> 8b17846b1c1fef5331a786ab59268602765caff2
+    "sources": [
+        "src/PiedPage.scss"
+    ],
+    "names": [],
+    "file": "PiedPage.css"
+}
